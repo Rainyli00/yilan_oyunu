@@ -1,6 +1,6 @@
 #  Terminal Yılan Oyunu 
 
- terminal üzerinde çalışan basit bir **yapay zekalı yılan oyunu** projesidir.  
+ Terminal üzerinde çalışan basit bir **yapay zekalı yılan oyunu** projesidir.  
 
 ##  Özellikler
 
